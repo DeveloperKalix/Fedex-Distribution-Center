@@ -1,0 +1,14 @@
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\bin\Debug\net8.0\algorithms_and_data_structures.exe
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\bin\Debug\net8.0\algorithms_and_data_structures.deps.json
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\bin\Debug\net8.0\algorithms_and_data_structures.runtimeconfig.json
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\bin\Debug\net8.0\algorithms_and_data_structures.dll
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\bin\Debug\net8.0\algorithms_and_data_structures.pdb
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.AssemblyInfoInputs.cache
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.AssemblyInfo.cs
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.dll
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\obj\Debug\net8.0\refint\algorithms_and_data_structures.dll
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.pdb
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.genruntimeconfig.cache
+C:\Users\Mark\Documents\GitHub\DS_And_Algos\algorithms_and_data_structures\obj\Debug\net8.0\ref\algorithms_and_data_structures.dll

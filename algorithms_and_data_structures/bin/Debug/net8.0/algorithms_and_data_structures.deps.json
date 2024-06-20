@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "algorithms_and_data_structures/1.0.0": {
+        "runtime": {
+          "algorithms_and_data_structures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algorithms_and_data_structures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
